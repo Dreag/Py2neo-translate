@@ -6,7 +6,7 @@
 
 - [文档索引](http://py2neo.org/v4/index.html#library-reference)
 
-### 1. [py2neo.data – 数据类型](http://py2neo.org/v4/data.html)
+### 1. [py2neo.data – 数据类型](https://github.com/Dreag/Py2neo-translate/blob/master/Detailed%20documentation/1.%20Py2neo.data%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
 
 - 1.1. **Node** and **Relationship** 对象
 
